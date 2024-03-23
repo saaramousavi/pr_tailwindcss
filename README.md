@@ -1,7 +1,7 @@
 # pr_tailwindcss
 Tailwindcss project
 
-![viewfinal]![Screenshot 2024-03-24 015902](https://github.com/saaramousavi/pr_tailwindcss/assets/159664750/3c248b17-c777-4fbc-b2ce-4d34078d9bf0)
+![Screenshot 2024-03-24 015902](https://github.com/saaramousavi/pr_tailwindcss/assets/159664750/3c248b17-c777-4fbc-b2ce-4d34078d9bf0)
 
 - [Demo Project](https://saaramousavi.github.io/pr_tailwindcss/)
 
